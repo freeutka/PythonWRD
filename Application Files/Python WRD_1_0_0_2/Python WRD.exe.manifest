@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Python WRD.exe" version="1.0.0.2" publicKeyToken="069d8727548ef318" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="python.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Python WRD" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Python WRD.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Параметры манифеста UAC
+          Если нужно изменить уровень контроля учетных записей Windows, замените 
+          узел requestedExecutionLevel одним из следующих значений.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+        Если нужно использовать виртуализацию файлов и реестра для обратной
+             совместимости, удалите узел requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Python WRD.exe" size="1317872">
+      <assemblyIdentity name="Python WRD" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>0QMq8WDm4HzYaqd66DpTTut+5RRdeg24W2TC4G2d/Qg=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="en\Python WRD.resources.dll" size="114688">
+      <assemblyIdentity name="Python WRD.resources" version="1.0.0.0" language="en" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>l1LLg3jufModHQacYYDFH2A/C1ewEWWsc7Y0dCNjpxY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Properties\python.ico" size="106602">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>JswJEQxjj3TDM/i0DkZKmpaMwwLMa3tc340U/gD8nmM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Python WRD.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="python.ico" size="106602">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>JswJEQxjj3TDM/i0DkZKmpaMwwLMa3tc340U/gD8nmM=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-DG4S8R1\freeutka" issuerKeyHash="fccdabac28f001e26a0a38f84172c9b57536f971" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>oMSB4ivGb4Ft1IFWA6oBqjU8AyLMri0bI3+Sk4f8fmw=</DigestValue></Reference></SignedInfo><SignatureValue>SPKAZ7VXvgZVLGnIHnb40xzP5IqGSEsF1+VrhukneIa2DBYG5Q6xXJJBBZ7VRLrgddQyn0EYalO9jXyLLPt2CutkO8EEmtLiA0EnurSSpEIsCbeH7HKE7Dk5SGvTP4FRpyl22XR3dcRHrr4x4Tt05tndUctiMhdJJb82SNWIeJk=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>npMnpBN7urnd4e+LKnc5JnyqG7BhqoKWjPvzoUEdy4u0O6qwKaM/yGaQcMiEXaso9758zQqct0Atk4NryzCVDpkAhnJGyFnrcsmYG5lH/eEHroT3bGtvRXlIA7tdIRU3uzuhR0DVAvIRx8aHxh/C/ApP5EtzxRiWCrEqi7ixNFk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="6c7efc8793927f231b2daecc22033c35aa01aa035681d46d816fc62be281c4a0" Description="" Url=""><as:assemblyIdentity name="Python WRD.exe" version="1.0.0.2" publicKeyToken="069d8727548ef318" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-DG4S8R1\freeutka</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>gF0CcXiKDMCRXMfJEHvMuCB1aRW+QSsD8ohNYdmJRHo=</DigestValue></Reference></SignedInfo><SignatureValue>WYz+1XeUdNvN+QnhHi/C38jxSMDAOnkk3m+aLJxStxF1U+IgG+Z/2DlO5pz9CJrb3+m124QTy+R0smPXLYhvQ7vUXQfYmXDtkOMqdC7qwTo3upV9mcmIRppGIF0qio5srWpWE87R3u6PJ2+CvEfgA32fklfYyJ+m8hawPEUmEHs=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>npMnpBN7urnd4e+LKnc5JnyqG7BhqoKWjPvzoUEdy4u0O6qwKaM/yGaQcMiEXaso9758zQqct0Atk4NryzCVDpkAhnJGyFnrcsmYG5lH/eEHroT3bGtvRXlIA7tdIRU3uzuhR0DVAvIRx8aHxh/C/ApP5EtzxRiWCrEqi7ixNFk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB+TCCAWKgAwIBAgIQKtG8N56Py4lNYLXBByEpQjANBgkqhkiG9w0BAQsFADA7MTkwNwYDVQQDHjAARABFAFMASwBUAE8AUAAtAEQARwA0AFMAOABSADEAXABmAHIAZQBlAHUAdABrAGEwHhcNMjQxMTE4MDczOTExWhcNMjUxMTE4MTMzOTExWjA7MTkwNwYDVQQDHjAARABFAFMASwBUAE8AUAAtAEQARwA0AFMAOABSADEAXABmAHIAZQBlAHUAdABrAGEwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAJ6TJ6QTe7q53eHviyp3OSZ8qhuwYaqCloz786FBHcuLtDuqsCmjP8hmkHDIhF2rKPe+fM0KnLdALZODa8swlQ6ZAIZyRshZ63LJmBuZR/3hB66E92xrb0V5SAO7XSEVN7s7oUdA1QLyEcfGh8YfwvwKT+RLc8UYlgqxKou4sTRZAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAlhf1Wktdtu9JLHCr2ah85ItFy2lvIM4Ye2w81C1s/NtvEhwa7hv6jlganvajyWHcJkFZrK3Cq5Ht8WY+6NqqJepYXBJa1a5gH3S9l/zLkE2z3cp9QmWdZKSzmG57XLvVJnryAJgrZ9a52v9xjA2B/n5ZoS/7CEtQUv/tf6nudjc=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
