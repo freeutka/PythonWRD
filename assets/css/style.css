@@ -1,0 +1,12 @@
+body {
+    background-color: #121212; /* Чёрный фон */
+    color: #ffffff; /* Белый текст */
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+a {
+    color: #1e90ff; /* Синий цвет для ссылок */
+}
+a:hover {
+    color: #87ceeb; /* Светло-голубой при наведении */
+}
