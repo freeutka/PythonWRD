@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Changelog"
+---
+
 # 1.0.0.4 | Changelog
 
 - Fixed a bug with indentation at the beginning of the code.
