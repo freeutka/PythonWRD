@@ -2,6 +2,6 @@
 <item>
   <version>1.0.0.3</version>
   <url>https://github.com/freeutka-cmd/python/raw/refs/heads/main/app.zip</url>
-  <changelog>https://github.com/freeutka-cmd/python/blob/main/changelog.md</changelog>
+  <changelog>https://github.com/freeutka-cmd/python/blob/main/changelog.html</changelog>
   <mandatory minVersion="1.0.0.0">true</mandatory>
 </item>
