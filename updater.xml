@@ -3,5 +3,5 @@
   <version>1.0.0.2</version>
   <url>https://github.com/freeutka-cmd/python/raw/refs/heads/main/app.zip</url>
   <changelog>https://raw.githubusercontent.com/freeutka-cmd/python/refs/heads/main/changelog.txt</changelog>
-  <mandatory>false</mandatory>
+  <mandatory minVersion="1.0.0.2">true</mandatory>
 </item>
