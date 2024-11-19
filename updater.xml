@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <version>1.0.0.1</version>
+  <version>1.0.0.3</version>
   <url>https://github.com/freeutka-cmd/python/raw/refs/heads/main/app.zip</url>
-  <changelog>https://raw.githubusercontent.com/freeutka-cmd/python/refs/heads/main/changelog.txt</changelog>
-  <mandatory>false</mandatory>
+  <changelog>https://python.freeutka.xyz/changelog.html</changelog>
+  <mandatory minVersion="1.0.0.0">true</mandatory>
 </item>
