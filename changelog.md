@@ -8,6 +8,8 @@ title: "Changelog"
 - Added a new category: Machine Learning (AI).
 - Added a new category: Networking.
 - Added a new category: Desktop Applications.
+- Resized the updater window.
+- Changed the updater window icon.
 
 ## Support
 
