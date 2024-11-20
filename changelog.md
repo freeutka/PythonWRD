@@ -3,10 +3,9 @@ layout: default
 title: "Changelog"
 ---
 
-# 1.0.0.4 | Changelog
+# 1.0.0.5 | Changelog
 
-- Fixed a bug with indentation at the beginning of the code.
-- Added a new category: Data Analysis.
+- Added a new category: Game Development.
 
 
 ## Support
