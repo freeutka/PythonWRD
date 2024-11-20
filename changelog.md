@@ -3,15 +3,15 @@ layout: default
 title: "Changelog"
 ---
 
-# 1.0.0.5 | Changelog
+# 1.0.0.8 | Changelog
 
-- Added a new category: Game Development.
-
+- Added a new category: Machine Learning (AI).
+- Added a new category: Networking.
+- Added a new category: Desktop Applications.
 
 ## Support
 
 For support, join our [channel](https://discord.gg/vjtPaHrFgb).
-
 
 ## License
 
