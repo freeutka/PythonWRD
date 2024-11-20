@@ -5,4 +5,4 @@ baseurl: ""
 url: "https://freeutka-cmd.github.io" 
 
 markdown: kramdown
-theme: jekyll-theme-hacker 
+theme: jekyll-theme-minima 
