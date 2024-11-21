@@ -3,13 +3,13 @@ layout: default
 title: "Changelog"
 ---
 
-# 1.0.0.8 | Changelog
+# 1.0.1.3 | Changelog
 
-- Added a new category: Machine Learning (AI).
-- Added a new category: Networking.
-- Added a new category: Desktop Applications.
-- Resized the updater window.
-- Changed the updater window icon.
+- Added a new codes in APIs and Bots.
+- Full remaked code view window.
+- Optimized app.
+- Fixed bugs.
+- Updated to .NET 1.8
 
 ## Support
 
