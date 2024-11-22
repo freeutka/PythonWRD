@@ -5,7 +5,7 @@
     <Size>340,53</Size>
     <Location>1,76</Location>
     <Code>
-string pythonCode1 = @"from telegram.ext import Updater, CommandHandler
+from telegram.ext import Updater, CommandHandler
 
 def start(update, context):
     update.message.reply_text(""Hello! I'm your bot."")
@@ -14,7 +14,7 @@ updater = Updater('YOUR_TOKEN_HERE')
 updater.dispatcher.add_handler(CommandHandler('start', start))
 
 updater.start_polling()
-updater.idle()";
+updater.idle()
     </Code>
   </Button>
   <Button>
