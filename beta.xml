@@ -4,7 +4,20 @@
     <Text>Click Me</Text>
     <Size>340,53</Size>
     <Location>1,76</Location>
-    <Code>MessageBox.Show("Button Clicked!");</Code>
+    <Code>
+string pythonCode1 = @"from telegram.ext import Updater, CommandHandler
+
+def start(update, context):
+    update.message.reply_text(""Hello! I'm your bot."")
+
+updater = Updater('YOUR_TOKEN_HERE')
+updater.dispatcher.add_handler(CommandHandler('start', start))
+
+updater.start_polling()
+updater.idle()";
+
+OpenCodeWindow(pythonCode1);
+    </Code>
   </Button>
   <Button>
     <Name>btnAnother</Name>
