@@ -1,0 +1,17 @@
+<!-- Don't watch here -->
+<Buttons>
+  <Button>
+    <Name>btnClickMe</Name>
+    <Text>Click Me</Text>
+    <Size>340,53</Size>
+    <Location>2,123</Location>
+    <Code>MessageBox.Show("Button Clicked!");</Code>
+  </Button>
+  <Button>
+    <Name>btnAnother</Name>
+    <Text>Another</Text>
+    <Size>340,53</Size>
+    <Location>2,123</Location>
+    <Code>MessageBox.Show("Another Button!");</Code>
+  </Button>
+</Buttons>
