@@ -3,13 +3,9 @@ layout: default
 title: "Changelog"
 ---
 
-# 1.0.1.3 | Changelog
+# 1.0.1.6 | Changelog
 
 - Added a new codes in APIs and Bots.
-- Full remaked code view window.
-- Optimized app.
-- Fixed bugs.
-- Updated to .NET 1.8
 
 ## Support
 
