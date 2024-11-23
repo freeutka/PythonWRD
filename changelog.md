@@ -3,7 +3,7 @@ layout: default
 title: "Changelog"
 ---
 
-# 1.0.1.6 | Changelog
+# 1.0.2.0 | Changelog
 
 - Added a new codes in APIs and Bots.
 
