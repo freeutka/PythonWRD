@@ -3,9 +3,10 @@ layout: default
 title: "Changelog"
 ---
 
-# 1.0.2.0 | Changelog
+# 2.0.0.0-beta | Changelog
 
-- Added a new codes in APIs and Bots.
+- Completely redesigned user interface.
+- Performance optimization.
 
 ## Support
 
