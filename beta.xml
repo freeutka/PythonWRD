@@ -1,3 +1,4 @@
+<!-- Don't watch here -->
 <Buttons>
   <Button>
     <Name>btnClickMe</Name>
@@ -17,6 +18,7 @@ updater.start_polling()
 updater.idle()
     </Code>
   </Button>
+  <!--
   <Button>
     <Name>btnAnother</Name>
     <Text>Another</Text>
@@ -24,4 +26,5 @@ updater.idle()
     <Location>1,135</Location>
     <Code>MessageBox.Show("Another Button!");</Code>
   </Button>
+  -->
 </Buttons>
