@@ -37,7 +37,7 @@
                 code: document.getElementById('code').value,
             };
 
-            const response = await fetch('/api', {
+            const response = await fetch('https://button-api.desingfreeutka.workers.dev/', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify(formData),
