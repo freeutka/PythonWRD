@@ -3,9 +3,10 @@ layout: default
 title: "Changelog"
 ---
 
-# 2.0.0.0-beta | Changelog
+# 2.0.0.0 | Changelog
 
-- Completely redesigned user interface.
+- Fixed Bugs.
+- Added new codes.
 - Performance optimization.
 
 ## Support
