@@ -17,13 +17,13 @@ Feel free to contribute to the project! If you have any suggestions or improveme
 ## Images
 Here are some screenshots of the **PythonWRD** application in action:
 
-![1](https://raw.githubusercontent.com/freeutka/python/refs/heads/main/screenshots/1.png)  
-![2](https://raw.githubusercontent.com/freeutka/python/refs/heads/main/screenshots/2.png) 
+![1](https://raw.githubusercontent.com/freeutka/PythonWRD/refs/heads/main/screenshots/1.png)  
+![2](https://raw.githubusercontent.com/freeutka/PythonWRD/refs/heads/main/screenshots/2.png) 
 
 ## Support
 For support, join our [channel](https://discord.gg/vjtPaHrFgb).
 
 ## License
-This project is licensed under the MIT License - see the [MIT](https://github.com/freeutka/python/blob/main/LICENSE.txt) file for details.
+This project is licensed under the MIT License - see the [MIT](https://github.com/freeutka/PythonWRD/blob/main/LICENSE.txt) file for details.
 
 *by freeutka* ❤️
