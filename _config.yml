@@ -2,7 +2,7 @@ title: "Python WRD"
 description: "This application provides a wide variety of templates for your code or ideas."
 author: "freeutka"
 baseurl: "" 
-url: "https://freeutka-cmd.github.io" 
+url: "https://freeutka.github.io" 
 
 markdown: kramdown
 theme: jekyll-theme-slate
