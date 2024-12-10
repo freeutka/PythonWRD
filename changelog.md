@@ -3,10 +3,10 @@ layout: default
 title: "Changelog"
 ---
 
-# 2.0.2.2 | Changelog
+# 2.0.2.5 | Changelog
 
-- Fixed buttons bugs.
-- Fixed an issue where the window could be maximized to full screen.
+- Optimized code by fully remake buttons code.
+- New codes.
 - Bug fixes.
 
 ## Support
