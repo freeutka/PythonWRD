@@ -1,0 +1,13 @@
+C:\Users\freeutka\source\repos\Python WRD\obj\Beta\Python WRD.csproj.AssemblyReference.cache
+C:\Users\freeutka\source\repos\Python WRD\obj\Beta\Python_WRD.apis_and_bots.resources
+C:\Users\freeutka\source\repos\Python WRD\obj\Beta\DynamicButtons.Form1.resources
+C:\Users\freeutka\source\repos\Python WRD\obj\Beta\Python_WRD.data_analysis.resources
+C:\Users\freeutka\source\repos\Python WRD\obj\Beta\Python_WRD.desktop_applications.resources
+C:\Users\freeutka\source\repos\Python WRD\obj\Beta\Python_WRD.game_development.resources
+C:\Users\freeutka\source\repos\Python WRD\obj\Beta\Python_WRD.machine_learning.resources
+C:\Users\freeutka\source\repos\Python WRD\obj\Beta\Python_WRD.networking.resources
+C:\Users\freeutka\source\repos\Python WRD\obj\Beta\Python_WRD.Properties.Resources.resources
+C:\Users\freeutka\source\repos\Python WRD\obj\Beta\Python_WRD.utilities.resources
+C:\Users\freeutka\source\repos\Python WRD\obj\Beta\Python_WRD.web_apps.resources
+C:\Users\freeutka\source\repos\Python WRD\obj\Beta\Python WRD.csproj.GenerateResource.cache
+C:\Users\freeutka\source\repos\Python WRD\obj\Beta\Python WRD.csproj.CoreCompileInputs.cache

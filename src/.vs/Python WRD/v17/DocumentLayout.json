@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\freeutka\\source\\repos\\Python WRD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA46E74B-17A7-4E10-A545-CC16EFE39AA5}|Python WRD.csproj|c:\\users\\freeutka\\source\\repos\\python wrd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA46E74B-17A7-4E10-A545-CC16EFE39AA5}|Python WRD.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA46E74B-17A7-4E10-A545-CC16EFE39AA5}|Python WRD.csproj|c:\\users\\freeutka\\source\\repos\\python wrd\\buttons\\webapps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA46E74B-17A7-4E10-A545-CC16EFE39AA5}|Python WRD.csproj|solutionrelative:buttons\\webapps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA46E74B-17A7-4E10-A545-CC16EFE39AA5}|Python WRD.csproj|c:\\users\\freeutka\\source\\repos\\python wrd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA46E74B-17A7-4E10-A545-CC16EFE39AA5}|Python WRD.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA46E74B-17A7-4E10-A545-CC16EFE39AA5}|Python WRD.csproj|c:\\users\\freeutka\\source\\repos\\python wrd\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA46E74B-17A7-4E10-A545-CC16EFE39AA5}|Python WRD.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\freeutka\\source\\repos\\Python WRD\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\freeutka\\source\\repos\\Python WRD\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAYCAAAAAAAAAAArwGoCAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T16:49:20.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\freeutka\\source\\repos\\Python WRD\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\freeutka\\source\\repos\\Python WRD\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwDgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T16:48:56.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebApps.cs",
+              "DocumentMoniker": "C:\\Users\\freeutka\\source\\repos\\Python WRD\\Buttons\\WebApps.cs",
+              "RelativeDocumentMoniker": "Buttons\\WebApps.cs",
+              "ToolTip": "C:\\Users\\freeutka\\source\\repos\\Python WRD\\Buttons\\WebApps.cs",
+              "RelativeToolTip": "Buttons\\WebApps.cs",
+              "ViewState": "AgIAAOoAAAAAAAAAAAAkwOgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T16:42:14.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\freeutka\\source\\repos\\Python WRD\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\freeutka\\source\\repos\\Python WRD\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T16:42:00.923Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
