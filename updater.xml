@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <version>2.0.2.5</version>
-  <url>https://github.com/freeutka/PythonWRD/raw/refs/heads/main/builds/2.0.2.5.zip</url>
+  <version>2.0.2.7</version>
+  <url>https://github.com/freeutka/PythonWRD/raw/refs/heads/main/builds/2.0.2.7.zip</url>
   <changelog>https://python.freeutka.xyz/changelog</changelog>
   <mandatory minVersion="2.0.2.2">true</mandatory>
 </item>
